@@ -3,8 +3,8 @@ import PropTypes from 'prop-types';
 import './button.css';
 import styled from 'styled-components';
 /**
- * Primary UI component for user interaction
- */
+ * Primary UI Button component for user interaction
+ **/
 export const Button = ({ primary, backgroundColor, size, label, ...props }) => {
   const mode = primary ? 'ns-button--primary' : 'ns-button--secondary';
   return (
