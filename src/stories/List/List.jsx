@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import './list.css';
-
+import styled from 'styled-components';
 export const List = () => {
   
   return (
