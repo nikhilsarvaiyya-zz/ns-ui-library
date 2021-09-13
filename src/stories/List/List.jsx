@@ -9,6 +9,7 @@ export const List = () => {
     <li>Coffee</li>
     <li>Tea</li>
     <li>Coca Cola</li>
+    <li>Ice tea</li>
   </ul>
   );
 };
