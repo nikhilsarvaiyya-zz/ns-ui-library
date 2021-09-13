@@ -7,6 +7,9 @@ export default {
   argTypes: {
     backgroundColor: { control: 'color' },
   },
+  parameters: {
+    componentSubtitle: 'Display button for default Senario',
+  },
 };
 
 const Template = (args) => <Button {...args} />;
