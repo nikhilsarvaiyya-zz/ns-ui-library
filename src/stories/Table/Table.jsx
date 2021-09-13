@@ -7,7 +7,7 @@ export const Table = () => {
   return (
     <table className="ns-table">
         <tr>
-            <th>1</th><th>1</th><th>1</th>
+            <th>One</th><th>Two</th><th>Three</th>
         </tr>
         <tr>
             <td>1</td><td>1</td><td>1</td>
